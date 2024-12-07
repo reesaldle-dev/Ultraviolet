@@ -39,6 +39,8 @@
 		"idb": "^8.0.0",
 		"meriyah": "^6.0.2",
 		"parse5": "^7.2.0",
-		"set-cookie-parser": "^2.7.1"
+		"set-cookie-parser": "^2.7.1",
+		"ultraviolet": "https://github.com/titaniumnetwork-dev/Ultraviolet/releases/download/v1.0.1/ultraviolet-1.0.1.tgz",
+		"velara": "github:UseVelara/Velara"
 	}
 }
